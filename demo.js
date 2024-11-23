@@ -18,3 +18,7 @@ const changeName2 = name => {
 const changeName3 = name => {
     return name.split("").reverse().join("-");
 }
+
+const changeName4 = name => {
+    return name.split("").reverse().join("-");
+}
