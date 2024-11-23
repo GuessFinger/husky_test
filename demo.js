@@ -10,3 +10,7 @@ const obj = {
 const changeName = name => {
     return name.split("").reverse().join("-");
 }
+
+const changeName2 = name => {
+    return name.split("").reverse().join("-");
+}
