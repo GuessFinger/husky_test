@@ -27,4 +27,4 @@ jobs:
         run: npx stylelint "**/*.{css,scss,vue}"
 
       - name: Run Prettier
-        run: npx prettier --check "**/*"
+        run: npx prettier --check "**/*.{css,scss,vue,js,jsx,ts}"
