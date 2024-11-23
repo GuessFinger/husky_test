@@ -7,18 +7,22 @@ const obj = {
     },
 };
 
-const changeName = name => {
+const changeName = (name) => {
     return name.split("").reverse().join("-");
-}
+};
 
-const changeName2 = name => {
+const changeName2 = (name) => {
     return name.split("").reverse().join("-");
-}
+};
 
-const changeName3 = name => {
+const changeName3 = (name) => {
     return name.split("").reverse().join("-");
-}
+};
 
-const changeName4 = name => {
+const changeName4 = (name) => {
     return name.split("").reverse().join("-");
-}
+};
+
+const changeName5 = (name) => {
+    return name.split("").reverse().join("-");
+};
