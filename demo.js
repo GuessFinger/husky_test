@@ -30,3 +30,7 @@ const changeName5 = (name) => {
 const changeName6 = (name) => {
     return name.split("").reverse().join("-");
 };
+
+const changeName7 = (name) => {
+    return name.split("").reverse().join("-");
+};
