@@ -7,6 +7,6 @@ const obj = {
     },
 };
 
-const changeName = (name) => {
+const changeName = name => {
     return name.split("").reverse().join("-");
-};
+}
